@@ -87,7 +87,7 @@
         {
             "name": "💦 1 - VLESS - Domain : 443",
             "type": "vless",
-            "server": "pol.htetmyat-k-w.gleeze.com",
+            "server": "104.19.212.62",
             "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
@@ -114,7 +114,7 @@
         {
             "name": "💦 2 - VLESS - Domain : 443",
             "type": "vless",
-            "server": "www.speedtest.net",
+            "server": "104.19.211.162",
             "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
@@ -141,7 +141,7 @@
         {
             "name": "💦 3 - VLESS - IPv4 : 443",
             "type": "vless",
-            "server": "172.66.44.235",
+            "server": "104.19.220.97",
             "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
@@ -168,7 +168,7 @@
         {
             "name": "💦 4 - VLESS - IPv4 : 443",
             "type": "vless",
-            "server": "172.66.47.21",
+            "server": "104.19.218.163",
             "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
@@ -195,7 +195,7 @@
         {
             "name": "💦 5 - VLESS - IPv6 : 443",
             "type": "vless",
-            "server": "2606:4700:310c::ac42:2ceb",
+            "server": "104.19.205.70",
             "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
@@ -222,7 +222,7 @@
         {
             "name": "💦 6 - VLESS - IPv6 : 443",
             "type": "vless",
-            "server": "2606:4700:310c::ac42:2f15",
+            "server": "104.19.196.235",
             "port": 443,
             "ip-version": "ipv4-prefer",
             "tfo": false,
